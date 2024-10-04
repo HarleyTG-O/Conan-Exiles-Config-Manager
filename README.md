@@ -3,7 +3,7 @@ _**Conan Exiles Config Manager**_
 **Description**
 The Conan Exiles Config Manager is a tool developed by HarleyTG that allows users to easily manage and replace configuration files for Conan Exiles. This tool provides several options to revert to default settings, remove specific files, and backup configuration files.
 
-##**Download**
+**Download**
 [Download here on Github](https://github.com/HarleyTG-O/Conan-Exiles-Config-Manager)
 
 
